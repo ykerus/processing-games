@@ -1,3 +1,6 @@
+Author: <br>
+• Yke Rusticus
+
 This is an old project where I programmed some old-school games in Processing (Java). 
 To play, simply open these files in Processing and run the program. 
 A menu will let you navigate through the options.
